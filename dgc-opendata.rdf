@@ -53,7 +53,7 @@
             <dcat:downloadURL rdf:resource="https://raw.githubusercontent.com/ministero-salute/it-dgc-opendata/master/data/dgc-issued.csv"/>
             <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-20</dc:modified>
           </rdf:Description>
-        </dcat:distribution>s
+        </dcat:distribution>
 
         <dcat:distribution>
           <rdf:Description rdf:about="https://github.com/ministero-salute/it-dgc-opendata/blob/master/data/dgc-issued.json">
