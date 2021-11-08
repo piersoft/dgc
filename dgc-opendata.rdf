@@ -21,7 +21,7 @@
     <dc:description xml:lang="it">Questo è il catalogo che contiene tutti i dati raccolti dal sistema italiano sul Certificato Covid Europeo</dc:description>
     <dc:publisher rdf:resource="http://sample.org/meta/agent/m_sa"/>
     <dcat:dataset>
-      <rdf:Description rdf:about="https://github.com/ministero-salute/it-dgc-opendata">
+      <rdf:Description rdf:about="https://github.com/ministero-salute/it-dgc-opendata/blob/master/format-dgc-issued-trend.md">
         <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
         <dc:identifier>m_sa:dgc-issued</dc:identifier>
@@ -114,7 +114,7 @@
       </rdf:Description>
     </dcat:dataset>
     <dcat:dataset>
-      <rdf:Description rdf:about="https://github.com/ministero-salute/it-dgc-opendata">
+      <rdf:Description rdf:about="https://github.com/ministero-salute/it-dgc-opendata/blob/master/format-dgc-acquired-trend.md">
         <rdf:type rdf:resource="http://dati.gov.it/onto/dcatapit#Dataset"/>
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
         <dc:identifier>m_sa:dgc-acquired</dc:identifier>
