@@ -129,7 +129,7 @@
         <rdf:type rdf:resource="http://www.w3.org/ns/dcat#Dataset"/>
         <dc:identifier>m_sa:dgc-acquired</dc:identifier>
         <dc:title xml:lang="it">DGC acquisiti</dc:title>
-        <dc:title xml:lang="it">Acquired DGCs</dc:title>
+        <dc:title xml:lang="en">Acquired DGCs</dc:title>
         <dc:description xml:lang="it">DGC acquisiti divisi per metodo di acquisizione</dc:description>
         <dc:description xml:lang="en">Acquired DGCs by method of acquisition</dc:description>
         <dc:modified rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2021-10-20</dc:modified>
